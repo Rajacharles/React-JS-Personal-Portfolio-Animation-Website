@@ -1,3 +1,6 @@
+![React-JS-Personal-Website-From-Scratch](https://user-images.githubusercontent.com/82109268/169080799-336bed03-605e-41a0-a665-042bbd56f244.jpg)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
